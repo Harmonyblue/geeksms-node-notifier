@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/CarlosLanderas/GeekMs-Node-Notifier.svg?branch=master)](https://travis-ci.org/CarlosLanderas/GeekMs-Node-Notifier)
+Merger work flow with Harmony Blue Branding [![Build Status](https://travis-ci.org/CarlosLanderas/GeekMs-Node-Notifier.svg?branch=master)](https://travis-ci.org/CarlosLanderas/GeekMs-Node-Notifier)
 
 **GEEK MS NODE NOTIFIER**
 
